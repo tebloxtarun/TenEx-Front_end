@@ -4,5 +4,6 @@
 ## Eslint Prettier Extension
 ## cyprus
 ## Husky
+## Zustand
 
 # All setted Up
