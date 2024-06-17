@@ -1,3 +1,6 @@
+
+# All setted Up
+
 ## React + TypeScript + Vite
 ## Eslint
 ## Jest
@@ -5,5 +8,3 @@
 ## cyprus
 ## Husky
 ## Zustand
-
-# All setted Up
