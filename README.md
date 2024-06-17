@@ -5,6 +5,6 @@
 ## Eslint
 ## Jest
 ## Eslint Prettier Extension
-## cyprus
+## Cyprus
 ## Husky
 ## Zustand
